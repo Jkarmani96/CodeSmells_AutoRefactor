@@ -1,0 +1,9 @@
+C:\Users\jai.karmani\documents\visual studio 2015\Projects\demoQA\demoQA\bin\Debug\demoQA.dll
+C:\Users\jai.karmani\documents\visual studio 2015\Projects\demoQA\demoQA\bin\Debug\demoQA.pdb
+C:\Users\jai.karmani\documents\visual studio 2015\Projects\demoQA\demoQA\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jai.karmani\documents\visual studio 2015\Projects\demoQA\demoQA\bin\Debug\WebDriver.dll
+C:\Users\jai.karmani\documents\visual studio 2015\Projects\demoQA\demoQA\bin\Debug\WebDriver.Support.dll
+C:\Users\jai.karmani\documents\visual studio 2015\Projects\demoQA\demoQA\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\jai.karmani\documents\visual studio 2015\Projects\demoQA\demoQA\obj\Debug\demoQA.dll
+C:\Users\jai.karmani\documents\visual studio 2015\Projects\demoQA\demoQA\obj\Debug\demoQA.pdb
+C:\Users\jai.karmani\documents\visual studio 2015\Projects\demoQA\demoQA\obj\Debug\demoQA.csprojResolveAssemblyReference.cache
